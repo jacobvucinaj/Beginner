@@ -1,2 +1,2 @@
 # Beginner
-Begining to laern coding
+Beginning to learn coding
